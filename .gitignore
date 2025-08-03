@@ -51,6 +51,7 @@ ExportedObj/
 .DS_Store
 .vsconfig
 .plastic/*
+ignore.conf
 
 # Unity3D generated meta files
 *.pidb.meta
